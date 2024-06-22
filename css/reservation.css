@@ -11,10 +11,12 @@ body {
 input {
     width: 500px;
     justify-content: space-between;
+    margin: 10px;
 }
 
 textarea {
     width: 500px;
+    margin: 10px;
 }
 
 form {
