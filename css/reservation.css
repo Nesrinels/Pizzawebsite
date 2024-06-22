@@ -1,0 +1,59 @@
+body {
+    margin-top: 200px;
+}
+/* right */
+.section {
+    margin-right: 50px;
+    margin-left: 20px;
+    padding: 50px;
+    text-align: center;    
+}
+input {
+    width: 500px;
+    justify-content: space-between;
+}
+
+textarea {
+    width: 500px;
+}
+
+form {
+    align-content: center;
+}
+/* left */
+.book{
+    text-align: center;
+    margin-left: 50px;
+}
+h3 {
+    font-family: "Playwrite US Trad", cursive;
+    color: #93D870;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #D88170;
+}
+/* all */
+.sections {
+    display: flex;
+    justify-content: space-between;
+}
+/* button */
+button {
+    border-radius: 15px;
+    border-color: #93D870;
+    background-color: #D88170;
+    border-width: 5px;
+}
+img {
+    height: 30px;
+    width: 30px;
+    background-color: transparent;
+}
+button:hover {
+    border-color: #D88170;
+    background-color: #93D870;
+}
